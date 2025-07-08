@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.19",
+        "ext-curl": "*"
+    }
+}
